@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from the Isle of Wyght, and county of Hampshire concerning the King: and the triall of Captain Burley, upon high treason about the late muteny [sic] in the said isle. Also the mayor and aldermens letter of the city of Rochester in Kent, to Sir Thomas Fairfaxes officers, to keep their forces from coming thither : and the answer thereunto. Together with the burning of the gates of Canterbury. A regiament [sic] gone to Dover, and the governours propositions concerning delivering up of the castle to whom Sir Thomas Fairfax shall appoint. Janua. 23. 1647. Imprimatur Gilbert Mabbott.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86264</idno>
+            <idno type="STC">Wing H1628</idno>
+            <idno type="STC">Thomason E423_17</idno>
+            <idno type="STC">ESTC R202576</idno>
+            <idno type="EEBO-CITATION">99862806</idno>
+            <idno type="PROQUEST">99862806</idno>
+            <idno type="VID">114983</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114983)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E423[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from the Isle of Wyght, and county of Hampshire concerning the King: and the triall of Captain Burley, upon high treason about the late muteny [sic] in the said isle. Also the mayor and aldermens letter of the city of Rochester in Kent, to Sir Thomas Fairfaxes officers, to keep their forces from coming thither : and the answer thereunto. Together with the burning of the gates of Canterbury. A regiament [sic] gone to Dover, and the governours propositions concerning delivering up of the castle to whom Sir Thomas Fairfax shall appoint. Janua. 23. 1647. Imprimatur Gilbert Mabbott.</title>
+                  <author>Hewet, John, 1614-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "declaration" is made by the grand jury which tried Burley and others in Hampshire; the letter is signed: Canterbury, the 22. Jan, 1647 [i.e. 1648]. Your assured friend Jo. Hewet.</note>
+                  <note>Imperfect: print fading and show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Burley, John, d. 1648 --  Trials, litigation, etc.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Rochester (Kent, England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114983:1"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:114983:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <p>A DECLARATION FROM THE <hi>Iſle of Wyght,</hi> and County of <hi>Hampſhire</hi> Concerning the KING: And the triall of Captain <hi>Burley,</hi> upon high Treaſon about the late Muteny in the ſaid ISLE.</p>
+            <p>ALSO The Mayor and Aldermens Letter of the City of <hi>Rocheſter</hi> in <hi>Kent,</hi> to Sir <hi>Thomas Fairfaxes</hi> Of<g ref="char:EOLhyphen"/>cers, to keep their Forces from coming thither: <hi>And the Anſwer thereunto.</hi>
+            </p>
+            <p>Together with the burning of the Gates of <hi>Canterbury.</hi> A Regiament gone to <hi>Dover,</hi> and the Governours Propoſitions concerning delivering up of the Caſtle to whom Sir <hi>Thomas Fairfax</hi> ſhall appoint.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>Janua. 23. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gilbert Mabbott.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by R. I. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114983:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <pb n="1" facs="tcp:114983:2"/>
+            <!-- PDF PAGE 3 -->
+            <head>A LETTER FROM The Major and Aldermen of the Ci<g ref="char:EOLhyphen"/>ty of <hi>Rochester,</hi> to Sir <hi>Thomas Fairfaxes</hi> Officers, to keep their Forces from comming thither.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THE marching of ſome of Sir <hi>Thomas Fairfaxes</hi> Forces into this County is a great griefe to the diſaffected party whoſe deſignes therby are like to be utterly fruſtrate. The laſt weeke Colonel <hi>Hew<g ref="char:EOLhyphen"/>ſons</hi> Regiament of foote containing about fourteene hundred men, marched into <hi>Canterbury</hi> without any manner of oppoſition, neither indeed could there be any, for before their comming, upon appeaſing of the late mutiny on the 24. of December laſt the gates of the City were burnt downe, to prevent the deſigne of thoſe which endeavoured to bring the whole City into a confuſion, and would have kept it by force a<g ref="char:EOLhyphen"/>gainſt the Parliaments forces, For which Sir <hi>William Manwood.</hi> Mr. <hi>Norwood, J. Baker, Tho. Annis</hi> and
+<pb n="2" facs="tcp:114983:3"/>
+               <!-- PDF PAGE 4 -->
+above forty others were taken into cuſtody and are ſince ſent from <hi>Canterbury</hi> to <hi>Leeds</hi> Caſtle for better <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> th<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gs <gap reason="illegible: bleedthrough" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ue <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> p<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>c<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, a<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Soul<g ref="char:EOLhyphen"/>ders behave themſelves very civilly, moſt of them being quartered in Innes and Victualling houſes. At nine of the clock at night a Drum is beaten through the City, and if afterwards any of the Souldiers are found out of their quarters or any way diſordered they are committed to cuſtody of the Marſhall <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have puniſhment.</p>
+            <p>On <hi>Saturday</hi> laſt Lieutenant Colonel <hi>
+                  <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> (Lieu<g ref="char:EOLhyphen"/>tenant Colonell to Colonel <hi>
+                  <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> with about five hundred of that Regi<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment marched from <hi>Canterbury</hi> to <hi>Sandwich,</hi> but before they came quite at the Town the Mayor and Aldermen met them and ſhewed great reſpect to them, and the Mayor ſpak to the Officers and declared the good affection of their Towne in generall to the Parliament, and the Army, and af<g ref="char:EOLhyphen"/>ter ſome further diſcourſe the Officers accompanied the Mayor and Aldermen into the <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and at their earneſt requeſt dined with them, in the meane while the private Souldiers and ſome of the inferior Officers ſtayed about halfe a mile from the town, to whom the Mayor cauſed to be ſent two Hogs-heads of ſtrong beere, and great ſtore of bread and cheeſe and other victualls, and towards night they were drawn to another place to quarter, and afterwards returned backe again to <hi>Canterbury,</hi> where they <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but one nights ſtay, for although the reſt of the <gap reason="illegible: bleedthrough" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ent remaine here, yet theſe five hundred men has Orders not to ſtay but to march away againe toward
+<pb n="3" facs="tcp:114983:3"/>
+               <!-- PDF PAGE 4 -->
+               <hi>
+                  <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with a Letter to Lieutenant Colo. <hi>J<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bbs</hi> and the reſt of the Officers, from the Mayor and Aldermen of the City of <hi>Rocheſter,</hi> ſignifying unto them, That whereas they h<gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> what they <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Their <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Rocheſter</hi> It was not the intent of that Ci<g ref="char:EOLhyphen"/>ty to ſhew the leaſt oppoſition thereunto, ſetting forth their good affection towards His Excellency Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> and the forces <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, but for that it had plea<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed God, the very day <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, to lay his hand on <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> City they  d<gap reason="illegible: bleedthrough" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed for prevention of any further infection in the Ci<g ref="char:EOLhyphen"/>ty or the indangering the Army, that they would for<g ref="char:EOLhyphen"/>beare to quarter in that Towne. To which the Of<g ref="char:EOLhyphen"/>ficers  <unclear>returned</unclear>
+               <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the Mayor and Al<g ref="char:EOLhyphen"/>dermen <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they could not <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the orders they had, which were to come to <hi>Rocheſter,</hi> And on Thurſday about foure a clocke in the after<g ref="char:EOLhyphen"/>noone they marched into the City where they were friendly <gap reason="illegible: bleedthrough" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rtained and particular quarters appoint<g ref="char:EOLhyphen"/>ed du<gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>  in which buſineſſe the diſcreete care of the Officers of the Army and the Conſtables of the Towne is obſervable, For as the poore were altoge<g ref="char:EOLhyphen"/>ther eaſed for were not the rich over burdened, neither were there above foure or five houſes which had Tickets to billet above one Souldier in a houſe, ſo that when there came but one where they expected two or three, repining thoughts vaniſhed, and the Soulders were made welcome there, and nothing ſeemed to ſad the hearts of the people but the dying of two of the towne that night of the ſickneſſe, and
+<pb n="4" facs="tcp:114983:4"/>
+               <!-- PDF PAGE 5 -->
+ſome others infected therewith, which in<g ref="char:EOLhyphen"/>deed proved to be ſuch a terror to the Coun<g ref="char:EOLhyphen"/>try people that the market was very ſmall there on Friday laſt.</p>
+            <p>There is one thing more which I had al<g ref="char:EOLhyphen"/>moſt forgotten, and that is this, Colonell <hi>Rainsboroughs</hi> Regiament is marched to <hi>Do<g ref="char:EOLhyphen"/>ver,</hi> and we heare that the Governour of the Caſtle (Captaine <hi>Boys</hi>) offers to reſigne His commiſſion if His Excellency require it.</p>
+            <p>In the meane while hee ſupplicates for pay for the Souldiers under His command, and having done long ſervice in that Caſtle, So I reſt,</p>
+            <closer>
+               <dateline>Canterbury, <date>the 22. Jan, 1647.</date>
+               </dateline>
+               <signed>Your aſſur<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iend Jo. Hewet.</signed>
+
+            </closer>
+            <postscript>
+               <pb n="5" facs="tcp:114983:4"/>
+               <!-- PDF PAGE 5 -->
+               <head>Poſt-ſcript.</head>
+               <p>THis evening as I was ſealing up of my Letters came a Poſt to Towne which brings newes that Sir <hi>Lewis Dives</hi> is eſcaped out of the Kings Bench, and is gone into <hi>France</hi> or the Ile of <hi>Jerſey,</hi> &amp; he reports further that he gave ſome great affront to his keepers<g ref="char:punc">▪</g> Here was alſo a great report that the King was coming from the Ile of <hi>Wight</hi> towards <hi>London,</hi> But by other intelligence from <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> which ſeemes to carry farre more weight, it is ſaid that nothing of that nature hath hitherto beene moved in the Houſe, which gives me aſſurance that the other re<g ref="char:EOLhyphen"/>port is altogether groundleſſe, and fained and onely raiſed by ſuch as would have it ſo. This is all which he hath at preſent to accommodate his friend who ſtill remaines.</p>
+               <closer>
+                  <signed>Your faithfull Friend Jo. Hewet.</signed>
+               </closer>
+            </postscript>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>Die Lunae, 24 <hi>Januar.</hi> 1647.</date>
+                  </dateline>
+               </opener>
+               <p>THE Commiſſioners which went down into Hampſhire to try Captain <hi>Burley</hi> and others, which were chiefe Actors in the late mutiney in the <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Wycke (and had a <gap reason="illegible: under-inked" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:114983:5"/>
+                  <!-- PDF PAGE 6 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:114983:5"/>
+                  <!-- PDF PAGE 6 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:114983:6"/>
+                  <!-- PDF PAGE 7 -->
+                  <gap reason="illegible: bleedthrough" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ments Commiſſioners came away, which carryed the foure Bills to his Majeſty return to London <gap reason="illegible: bleedthrough" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and this day report was made thereof to the Houſe, to this effect.</p>
+               <p>That the ſaid <gap reason="illegible: bleedthrough" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> before the ſaid Commiſſioners, and Indicted of high Treaſon, to which Indightment, he pleaded not guilty, and ſo putting himſelf upon the triall of the Country, he was found guilty by the Grand Jury, which are the repreſentative body of the Iſle of Wyght. and County of Hampſhire, and after verdict was brought in, the Judges gave ſentence (according to Law) that the ſaid Captain <hi>Burley</hi> ſhould be hang'd, drawn and quartered:</p>
+               <p>Two others were alſo indighted, and were found guilty of a Ryot, for which they were deeply fi<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, ſome others which were more principall actors in the buſineſſe have made an eſcape.</p>
+               <p>There was alſo this day read in the Houſe of Commo<gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a Declaration from the Grand Jury of the Iſle of Wyght, and County of Hampſhire, to this purpoſe:</p>
+               <p>Wee the Grand-Jury men of the Country of Hampſhire being called to give our Verdicts concerning Captain <hi>B<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rley</hi> and others; doe Declare according to our conſciences, that the deſigne to carry away the King, was with an intent to ingage the Kingdome in a new warre and to bring a gene<g ref="char:EOLhyphen"/>rall ruine and diſtruction on the ſame. And therfore we fur<g ref="char:EOLhyphen"/>ther declare that we do approve of the ſaid Votes concern<g ref="char:EOLhyphen"/>ing the King, and their proceedings againſt ſuch as ſhall a<g ref="char:EOLhyphen"/>ny wayes oppoſe or diſobey the Orders of Parliament, in ſettling the peace of the Kingdome and the rights and li<g ref="char:EOLhyphen"/>berties of the Subject in perſuance wherof we will live and dye in defence and maintenance of both houſes of Parli<g ref="char:EOLhyphen"/>ament.</p>
+               <closer>
+                  <signed>Signed by the Fore-man, and the reſt of the Jury.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This Declaration of the Grand-Jury is ordered forthwith to be printed and publiſhed.</p>
+            <closer>
+               <signed>Im. G.M.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
